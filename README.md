@@ -34,6 +34,7 @@ Whatever people were comfortable sharing.
 * https://github.com/vigoux/dotfiles
 * https://gitlab.com/ethancedwards/vim-config/-/tree/master
 * https://github.com/kyazdani42/doftifles
+* https://github.com/tpope/tpope
 
 ## How to add yours to this list
 
