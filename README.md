@@ -19,7 +19,7 @@ Whatever people were comfortable sharing.
 * https://github.com/jeremyckahn/dotfiles/blob/master/.vimrc
 * https://github.com/jsatk/dotfiles
 * https://github.com/kuator/dotfiles
-* https://github.com/macintacos/dotfiles/tree/master/nvim
+* https://github.com/macintacos/dotfiles/tree/trunk/nvim
 * https://github.com/Mathijs-Bakker/dotfiles
 * https://github.com/mattboehm/dotfiles/blob/master/vim/vimrc
 * https://github.com/nikolalsvk/dotfiles
