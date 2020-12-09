@@ -36,6 +36,7 @@ Whatever people were comfortable sharing.
 * https://github.com/ellisonleao/dotfiles
 * https://github.com/kyazdani42/doftifles
 * https://github.com/tpope/tpope
+* https://git.jonathanh.co.uk/jab2870/Dotfiles
 
 ## How to add yours to this list
 
