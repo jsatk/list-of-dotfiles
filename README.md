@@ -12,6 +12,7 @@ Whatever people were comfortable sharing.
 * https://github.com/ayushxx7/dotfiles
 * https://github.com/bfredl/bfredl.github.io/tree/master/nvim
 * https://github.com/brandoncc/nvim
+* https://github.com/carlosala/dotfiles
 * https://github.com/dblanken/dotfiles
 * https://github.com/dhruvasagar/dotfiles
 * https://github.com/dhruvasagar/vim-dotoo
