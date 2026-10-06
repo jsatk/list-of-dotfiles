@@ -40,6 +40,10 @@ Whatever people were comfortable sharing.
 * https://github.com/tpope/tpope
 * https://git.jonathanh.co.uk/jab2870/Dotfiles
 * https://github.com/Granddave/dotfiles
+* https://github.com/sohamch08/HyprLife
+* https://github.com/sohamch08/zsh
+* https://github.com/sohamch08/neovim-config
+* https://github.com/sohamch08/neomutt
 
 ## How to add yours to this list
 
